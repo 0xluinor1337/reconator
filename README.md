@@ -1,2 +1,2 @@
 # reconator
-A wrapper for recon.
+A automated for recon.
