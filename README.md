@@ -39,7 +39,7 @@ Logs will be saved in: logs/example.com
 [+] Running dig....
 [+] Running nslookup....
 ...
-
+```
 ## 📂 Log Output Structure
 logs/
 └── example.com/
@@ -51,7 +51,7 @@ logs/
     ├── host_info.log
     ├── wafw00f.log
     └── curl.log
-```
+
 ## Requirements
 sudo apt install -y whois dnsutils dnsrecon curl whatweb wafw00f
 
