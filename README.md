@@ -40,8 +40,8 @@ Logs will be saved in: logs/example.com
 [+] Running nslookup....
 ...
 ```
-```
-📂 Log Output Structure
+## 📂 Log Output Structure
+```bash
 logs/
 └── example.com/
     ├── whois.log
