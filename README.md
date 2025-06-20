@@ -56,6 +56,8 @@ logs/
 ## Requirements
 sudo apt install -y whois dnsutils dnsrecon curl whatweb wafw00f
 
-## 🚀 How to run 
-chmod +x reconator.sh
-./reconator.sh
+## 🚀 How to run
+```bash
+chmod 700 reconator.sh
+./reconator.sh  ||  bash reconator.sh
+```
