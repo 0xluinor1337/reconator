@@ -40,7 +40,8 @@ Logs will be saved in: logs/example.com
 [+] Running nslookup....
 ...
 ```
-## 📂 Log Output Structure
+```
+📂 Log Output Structure
 logs/
 └── example.com/
     ├── whois.log
@@ -51,7 +52,7 @@ logs/
     ├── host_info.log
     ├── wafw00f.log
     └── curl.log
-
+```
 ## Requirements
 sudo apt install -y whois dnsutils dnsrecon curl whatweb wafw00f
 
