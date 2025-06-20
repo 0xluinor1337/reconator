@@ -1,7 +1,7 @@
-# 🛰️ Reconator by Luinor-0987
+# 🛰️ Reconator by 0xluinor1337
 
 **Version:** 1.0  
-**Author:** [0xluinor1337](https://github.com/0xluinor1337)  
+**Author:** [0xluinor1337] (https://github.com/0xluinor1337)  
 **Description:** A Bash-based reconnaissance toolkit for gathering information about a domain using popular open-source tools.
 
 ---
